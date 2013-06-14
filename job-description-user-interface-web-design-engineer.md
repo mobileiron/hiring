@@ -1,4 +1,4 @@
-## Job Description - User Interface / Web Design Engineer in Bellevue, WA
+## Job Description - User Interface / Web Design - Bellevue
 * Interested in directly affecting the way millions of enterprise customers daily use their mobile devices?
 * Do you enjoy working with talented and experienced professionals, committed to succeed in a fast paced environment?
 * Come help us build the leading mobile device management platform with the focus on application and content security.

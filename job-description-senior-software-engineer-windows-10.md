@@ -1,4 +1,4 @@
-# Job Description - Senior SDE in Bellevue, WA focused on Windows 10
+# Job Description - Senior SDEfocused on Windows 10
 * Interested in directly affecting the way millions of enterprise customers daily use their Windows Mobile devices?
 * Do you enjoy working with talented and experienced professionals, committed to succeed in a fast paced environment?
 * Come help us build the leading mobile device management platform with the focus on application and content security.
